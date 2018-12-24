@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="home-PC" name="com.amazon.Tests.HomeTest" tests="1" failures="0" timestamp="21 Dec 2018 06:18:33 GMT" time="20.505" errors="0">
+  <testcase name="loginTest" time="10.653" classname="com.amazon.Tests.HomeTest"/>
+</testsuite>

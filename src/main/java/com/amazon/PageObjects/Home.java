@@ -13,7 +13,7 @@ public class Home{
 	{			
 		DriverInstance dIns = new DriverInstance();
 		driver = dIns.getDriverInstance();
-		driver.findElement(By.xpath("//*[@class='nav-line-1'][text()='Hello. Sign in']")).click();
+		driver.findElement(By.xpath("//*[@class='nav-line-1'][text()='Hello, Sign in']")).click();
 
 		
 	}

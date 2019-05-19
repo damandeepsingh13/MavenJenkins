@@ -19,8 +19,7 @@ public class HomeTest
 	 @BeforeClass
 	  public void beforeClass()
 	  {
-		  DriverInstance driverInstance = new DriverInstance();
-		  getdriver = driverInstance.getDriverInstance();
+		  
 	  }
 
 	  @AfterClass
